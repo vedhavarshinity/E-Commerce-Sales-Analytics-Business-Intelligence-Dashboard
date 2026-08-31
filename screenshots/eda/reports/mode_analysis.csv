@@ -1,0 +1,15 @@
+column,mode
+orderid,ORD200000
+date,2023-08-20
+customerid,C14847
+product,Printer
+quantity,1
+unitprice,127.18
+shippingaddress,533 Main St
+paymentmethod,Online
+orderstatus,Cancelled
+trackingnumber,TRK10003020
+itemsincart,5
+couponcode,Freeship
+referralsource,Instagram
+totalprice,211.14

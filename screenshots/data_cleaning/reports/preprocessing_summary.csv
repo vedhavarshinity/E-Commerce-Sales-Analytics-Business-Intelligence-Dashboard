@@ -1,0 +1,15 @@
+Metric,Value
+Initial Rows,1200
+Final Rows,1200
+Rows Removed,0
+Initial Columns,14
+Final Columns,14
+Columns Removed,0
+Initial Missing Values,309
+Final Missing Values,0
+Initial Duplicate Rows,0
+Final Duplicate Rows,0
+Numerical Columns,4
+Categorical Columns,9
+Date Columns,1
+Outlier Columns,4

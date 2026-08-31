@@ -1,0 +1,15 @@
+column,unique_values
+orderid,1200
+date,671
+customerid,1189
+product,7
+quantity,5
+unitprice,1193
+shippingaddress,655
+paymentmethod,5
+orderstatus,5
+trackingnumber,1200
+itemsincart,10
+couponcode,3
+referralsource,5
+totalprice,1195

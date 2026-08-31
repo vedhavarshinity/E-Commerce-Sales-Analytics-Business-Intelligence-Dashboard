@@ -1,0 +1,15 @@
+column,data_type,non_null_values,missing_values,unique_values
+orderid,object,1200,0,1200
+date,datetime64[ns],1200,0,671
+customerid,object,1200,0,1189
+product,object,1200,0,7
+quantity,int64,1200,0,5
+unitprice,float64,1200,0,1193
+shippingaddress,object,1200,0,655
+paymentmethod,object,1200,0,5
+orderstatus,object,1200,0,5
+trackingnumber,object,1200,0,1200
+itemsincart,int64,1200,0,10
+couponcode,object,1200,0,3
+referralsource,object,1200,0,5
+totalprice,float64,1200,0,1195

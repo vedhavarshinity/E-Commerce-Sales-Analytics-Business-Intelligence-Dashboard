@@ -1,0 +1,21 @@
+orderid,date,customerid,product,quantity,unitprice,shippingaddress,paymentmethod,orderstatus,trackingnumber,itemsincart,couponcode,referralsource,totalprice
+ORD200000,2023-01-04,C72649,Monitor,5,570.62,928 Main St,Debit Card,Shipped,TRK37947903,7,Save10,Instagram,2853.1
+ORD200001,2024-08-23,C75739,Phone,2,151.35,823 Main St,Online,Shipped,TRK91186779,3,Save10,Referral,302.7
+ORD200002,2024-02-27,C81728,Tablet,5,550.68,512 Main St,Credit Card,Cancelled,TRK42903982,8,Freeship,Email,2753.4
+ORD200003,2023-10-15,C33540,Chair,1,273.19,275 Main St,Debit Card,Returned,TRK62788070,5,Save10,Facebook,273.19
+ORD200004,2025-05-08,C81840,Printer,4,626.01,668 Main St,Online,Delivered,TRK29241424,8,Save10,Email,2504.04
+ORD200005,2023-10-23,C37249,Phone,2,245.86,934 Main St,Credit Card,Shipped,TRK72976927,4,Save10,Instagram,491.72
+ORD200006,2025-06-17,C83492,Laptop,1,664.42,986 Main St,Gift Card,Returned,TRK96417362,6,Save10,Facebook,664.42
+ORD200007,2023-05-12,C41460,Monitor,5,149.55,706 Main St,Cash,Shipped,TRK78809193,9,Freeship,Facebook,747.75
+ORD200008,2025-04-02,C26817,Phone,2,134.28,904 Main St,Gift Card,Cancelled,TRK61042692,2,Freeship,Email,268.56
+ORD200009,2023-11-21,C31946,Desk,4,509.38,102 Main St,Credit Card,Shipped,TRK33478363,6,Save10,Google,2037.52
+ORD200010,2023-12-29,C43443,Tablet,5,625.97,333 Main St,Credit Card,Returned,TRK98859248,9,Winter15,Instagram,3129.85
+ORD200011,2024-02-17,C93861,Monitor,3,49.14,831 Main St,Online,Returned,TRK48234646,7,Save10,Email,147.42
+ORD200012,2024-10-15,C38785,Monitor,2,180.5,179 Main St,Debit Card,Pending,TRK20419991,6,Freeship,Referral,361.0
+ORD200013,2023-08-30,C88348,Laptop,3,201.49,903 Main St,Credit Card,Returned,TRK81913874,4,Freeship,Facebook,604.47
+ORD200014,2023-03-27,C98474,Tablet,2,393.33,980 Main St,Debit Card,Pending,TRK79186539,3,Save10,Instagram,786.66
+ORD200015,2023-07-17,C39416,Printer,1,473.96,942 Main St,Cash,Delivered,TRK54930938,3,Freeship,Google,473.96
+ORD200016,2023-01-24,C28976,Printer,2,533.81,914 Main St,Credit Card,Pending,TRK13194259,3,Freeship,Email,1067.62
+ORD200017,2024-03-02,C60672,Tablet,1,423.4,382 Main St,Debit Card,Shipped,TRK11972116,3,Freeship,Referral,423.4
+ORD200018,2025-03-26,C84329,Desk,1,431.44,891 Main St,Gift Card,Pending,TRK65191045,3,Save10,Facebook,431.44
+ORD200019,2023-01-23,C14552,Monitor,5,224.0,273 Main St,Cash,Returned,TRK59101365,9,Save10,Google,1120.0

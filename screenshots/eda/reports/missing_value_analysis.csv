@@ -1,0 +1,15 @@
+column,missing_count,missing_percentage
+orderid,0,0.0
+date,0,0.0
+customerid,0,0.0
+product,0,0.0
+quantity,0,0.0
+unitprice,0,0.0
+shippingaddress,0,0.0
+paymentmethod,0,0.0
+orderstatus,0,0.0
+trackingnumber,0,0.0
+itemsincart,0,0.0
+couponcode,0,0.0
+referralsource,0,0.0
+totalprice,0,0.0

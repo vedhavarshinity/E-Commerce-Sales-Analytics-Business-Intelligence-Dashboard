@@ -1,0 +1,8 @@
+E-COMMERCE BUSINESS INSIGHTS
+======================================================================
+
+1. The dataset contains 1,200 records and 14 columns.
+2. The cleaned dataset contains no missing values.
+3. No duplicate records were identified.
+4. The dataset contains 1,189 unique customers.
+5. Total quantity sold is 3,535.00.

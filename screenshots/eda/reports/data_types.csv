@@ -1,0 +1,15 @@
+column,data_type
+orderid,object
+date,object
+customerid,object
+product,object
+quantity,int64
+unitprice,float64
+shippingaddress,object
+paymentmethod,object
+orderstatus,object
+trackingnumber,object
+itemsincart,int64
+couponcode,object
+referralsource,object
+totalprice,float64

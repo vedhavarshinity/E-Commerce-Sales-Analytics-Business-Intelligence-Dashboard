@@ -107,6 +107,7 @@ The project uses an e-commerce transaction dataset containing order, customer, p
 The preprocessing.py script prepares the raw dataset for analysis.
 
 Data preprocessing includes:
+```
 Loading the raw CSV file.
 Inspecting the dataset.
 Checking missing values.
@@ -117,11 +118,11 @@ Converting the date column to datetime format.
 Converting numerical columns to numeric format.
 Validating the cleaned dataset.
 Exporting the cleaned dataset.
-
+```
 # 📈 2. Exploratory Data Analysis
 
 The eda.py script performs exploratory analysis on the cleaned dataset.
-
+```
 Sales Analysis
 Total revenue
 Total orders
@@ -147,13 +148,13 @@ Referral Analysis
 Referral source distribution
 Orders by referral source
 Revenue by referral source
-
+```
 # 🗄️ 3. SQL Business Analysis
 
 MySQL is used to perform business-oriented analysis on the cleaned e-commerce dataset.
 
 The SQL analysis includes:
-
+```
 Database creation
 Table creation
 Data loading
@@ -172,7 +173,7 @@ Monthly revenue
 Order status analysis
 Payment method analysis
 Referral source analysis
-
+```
 # 📊 4. Interactive Dashboard
 
 The final dashboard is developed using Streamlit and Plotly.
@@ -182,7 +183,7 @@ The dashboard provides a consolidated view of e-commerce business performance.
 # 🔑 Key Performance Indicators
 
 The dashboard displays:
-
+```
 Total Orders
 Unique Customers
 Total Products
@@ -191,7 +192,7 @@ Average Order Value
 Units Sold
 Successful Orders
 Success Rate
-
+```
 # 🎛️ Dashboard Filters
 
 The dashboard provides interactive filters for:
@@ -255,7 +256,7 @@ Users can download the filtered sales data as a CSV file.
 # 💡 Business Insights
 
 The analysis provides insights into:
-
+```
 Overall e-commerce sales performance.
 Products contributing the highest revenue.
 Products generating the highest sales volume.
@@ -266,16 +267,16 @@ Customer payment preferences.
 Performance of different referral sources.
 Average order value.
 Overall sales and order volume.
-
+```
 These insights can help businesses improve:
-
+```
 Product strategy
 Marketing campaigns
 Customer targeting
 Sales planning
 Revenue optimization
 Business performance monitoring
-
+```
 # 📸 Screenshots
 
 Screenshots documenting the project are organized as follows:
@@ -295,7 +296,7 @@ These folders contain screenshots of the different stages of the project, includ
 # 📦 Project Deliverables
 
 The project includes:
-
+```
 Raw e-commerce dataset
 Cleaned dataset
 Data preprocessing script
@@ -308,11 +309,11 @@ Dashboard screenshots
 Requirements file
 Project documentation
 GitHub README
-
+```
 # 🔮 Future Enhancements
 
 The project can be further enhanced with:
-
+```
 Sales forecasting using machine learning.
 Customer segmentation.
 Customer Lifetime Value (CLV) analysis.
@@ -323,7 +324,7 @@ Automated business reports.
 Real-time data integration.
 Cloud deployment.
 Predictive business intelligence.
-
+```
 # 👩‍💻 Author
 
 Vedhavarshini T.Y.

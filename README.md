@@ -13,7 +13,7 @@ The final Streamlit dashboard provides an interactive view of sales performance,
 The primary objective of this project is to help an e-commerce business understand its sales performance and customer behavior through data-driven analysis.
 
 The project aims to answer key business questions:
-
+``` text
 How much revenue is generated?
 How many orders and customers are there?
 Which products generate the most revenue?
@@ -24,8 +24,9 @@ What are the most commonly used payment methods?
 What is the distribution of order statuses?
 Which referral sources generate the most orders and revenue?
 What is the average order value?
-
+```
 # 🎯 Project Objectives
+```
 Perform data cleaning and preprocessing.
 Prepare a reliable dataset for analysis.
 Conduct exploratory data analysis.
@@ -38,7 +39,7 @@ Evaluate referral source performance.
 Identify monthly sales trends.
 Build an interactive business intelligence dashboard.
 Present actionable business insights
-
+```
 # 🛠️ Technologies & Tools
 ```
 | Technology | Purpose                           |
@@ -196,13 +197,13 @@ Success Rate
 # 🎛️ Dashboard Filters
 
 The dashboard provides interactive filters for:
-
+```
 📅 Date Range
 🛍️ Product
 📦 Order Status
 💳 Payment Method
 📢 Referral Source
-
+```
 The KPIs, charts, and sales table update based on the selected filters.
 
 # 📉 Dashboard Visualizations

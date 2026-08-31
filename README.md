@@ -292,6 +292,7 @@ screenshots/
 │
 └── dashboard/
 ```
+streamlit link: http://localhost:8502/
 These folders contain screenshots of the different stages of the project, including preprocessing, EDA visualizations, SQL results, and the final dashboard.
 
 # 📦 Project Deliverables
